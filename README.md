@@ -1,0 +1,1 @@
+# Bagl-liste-ile-polinom-hesaplama-ve-s-ralama
